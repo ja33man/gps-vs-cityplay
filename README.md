@@ -65,9 +65,8 @@ streamlit run gps_analysis.py
 - The app displays calculated **statistics**.
 - A **heatmap** shows speed variation across locations.
 
-![Streamlit Dashboard](docs/streamlit_dashboard.png)
-
 ## Outputs & Visualizations
+![Streamlit Dashboard](docs/streamlit_dashboard.PNG)
 
 ### **Key Metrics Table**
 | Metric                  | Value  |
@@ -82,7 +81,7 @@ streamlit run gps_analysis.py
 
 ### **Heatmap Example**
 *(Generated using **Folium** & **Streamlit-Folium**)*
-![Heatmap Example](docs/heatmap_example.png)  
+![Heatmap Example](docs/heatmap_example.PNG)  
 
 ### **CityPlay App Readings**
 ![CityPlay App Screenshot](docs/cityplay_app.png)
